@@ -5,3 +5,16 @@ Reinforcement
 Algorithm:
 Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users.
 It works by searching a large group of people and finding a smaller set of users with tastes similar to a particular user. It looks at the items they like and combines them to create a ranked list of suggestions.
+Unsupervised learning
+Unsupervised learning finds hidden patterns or intrinsic structures in data.
+It is used to draw inferences from datasets consisting of input data without labeled responses.
+
+Clustering is the most common unsupervised learning technique. 
+It is used for exploratory data analysis to find hidden patterns or groupings in data. 
+Applications for cluster analysis include gene sequence analysis, market research, and object recognition.
+
+For example, if a cell phone company wants to optimize the locations where they build cell phone towers,
+ they can use machine learning to estimate the number of clusters of people relying on their towers. 
+A phone can only talk to one tower at a time,
+ so the team uses clustering algorithms to design the best placement of cell towers to optimize signal reception for groups, or clusters, of their customers.
+ The most common algorithms for performing clustering can be found 
