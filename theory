@@ -18,3 +18,21 @@ For example, if a cell phone company wants to optimize the locations where they 
 A phone can only talk to one tower at a time,
  so the team uses clustering algorithms to design the best placement of cell towers to optimize signal reception for groups, or clusters, of their customers.
  The most common algorithms for performing clustering can be found 
+Content-based filtering, aiming to describe the track by examining the content itself
+Collaborative filtering, aiming to describe the track in its connection with other tracks on the platform by studying user-generated assets
+Track title
+Release title
+Artist name
+Featured artists
+Songwriter credits
+Producers credits
+Label
+Release Date
+Genre & sub-genre tags* 
+Music culture tags*
+Mood tags*
+Style tags*
+Primary language*
+Instruments used throughout recording*
+Track typology (Is it a cover? Is it a remix? Is it an instrumental?)
+Artist hometown/local market*
